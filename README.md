@@ -42,9 +42,5 @@ This project aims to analyze grocery sales data to identify insights that can gu
 - Expand dataset with more attributes for deeper insights.
 - Automate data updates and dashboard refresh.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 For any questions or inquiries, please contact [Yogesh Doble](mailto:yogeshdoble9098@gmail.com).
